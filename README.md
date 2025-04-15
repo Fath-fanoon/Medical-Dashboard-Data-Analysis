@@ -20,7 +20,7 @@ A sleek and interactive **healthcare dashboard** built using **Power BI** to hel
 - 🧠 **Departmental Referrals** – like Cardiology, Neurology, etc.
 - 🧑‍🤝‍🧑 **Demographics** – Gender, Age Group breakdown
 - 📆 **Weekday vs Weekend** patient flow analysis
-- 🌍 Racial group-based feedback on satisfaction
+- 🌍 **Racial group**-based feedback on satisfaction
 
 ---
 
@@ -64,7 +64,6 @@ Both `.csv` files were cleaned and transformed in Power BI using:
 ![Screenshot 2025-04-15 102926](https://github.com/user-attachments/assets/09481229-837d-4927-83e5-1b11ce502bd8)
 
 
-> **Note**: Place your screenshots inside a `screenshots/` folder in your repo for the image links to work properly.
 
 ---
 
