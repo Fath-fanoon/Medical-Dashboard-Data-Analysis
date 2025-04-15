@@ -75,12 +75,8 @@ Both `.csv` files were cleaned and transformed in Power BI using:
 
 ---
 
-## 🙌 Credits
 
-Made with love by **Fathima Fanoon** 💜  
-Third-year CS Student | Passionate about tech, design & data
 
----
 
 
 
